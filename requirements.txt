@@ -1,0 +1,5 @@
+wavio
+sounddevice
+tk
+playsound
+pygobject
