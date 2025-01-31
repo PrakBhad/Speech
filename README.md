@@ -20,3 +20,6 @@ pip install -r requirements.txt
 ```bash
 python talk.py
 ```
+
+## **Licence**
+[MIT Licence](LICENCE)
