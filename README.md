@@ -22,4 +22,4 @@ python talk.py
 ```
 
 ## **Licence**
-[MIT Licence](LICENCE)
+[MIT Licence](LICENSE)
