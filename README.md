@@ -18,5 +18,5 @@ pip install -r requirements.txt
 ```
 ## **Step 3: Running app**
 ```bash
-python app.py
+python talk.py
 ```
